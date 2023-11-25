@@ -1,0 +1,132 @@
+1
+00:00:01,870 --> 00:00:05,080
+Are you looking to learn what microservices are?
+
+2
+00:00:05,110 --> 00:00:11,200
+Or are you trying to get started and gain some real world hands on experience with.
+
+3
+00:00:11,470 --> 00:00:13,060
+Net microservices.
+
+4
+00:00:13,570 --> 00:00:16,630
+If yes, then you are at the right course.
+
+5
+00:00:16,990 --> 00:00:20,230
+My name is Brogan and welcome to the course.
+
+6
+00:00:20,560 --> 00:00:22,410
+Net Core Microservices.
+
+7
+00:00:22,420 --> 00:00:23,800
+The Complete Guide.
+
+8
+00:00:24,550 --> 00:00:28,600
+Microservices is one of the buzzword in programming.
+
+9
+00:00:28,930 --> 00:00:36,700
+If you look for a new job, microservices is one of the key features that is coming up more and more
+
+10
+00:00:36,700 --> 00:00:37,480
+often.
+
+11
+00:00:38,360 --> 00:00:45,440
+Every time a system is lagging or it is getting too big, someone will have a suggestion that maybe
+
+12
+00:00:45,440 --> 00:00:47,960
+we should look into microservices.
+
+13
+00:00:48,440 --> 00:00:55,250
+But it is critical to understand what exactly it is and how to implement it correctly.
+
+14
+00:00:56,020 --> 00:00:59,260
+That is my motivation behind this course.
+
+15
+00:00:59,710 --> 00:01:07,180
+My goal is to introduce you to the microservices architecture while giving you a real world project
+
+16
+00:01:07,180 --> 00:01:14,980
+to see how microservices communicate with each other and what are the problems that we encounter and
+
+17
+00:01:14,980 --> 00:01:16,300
+how to solve them.
+
+18
+00:01:16,870 --> 00:01:26,500
+Microservices is made up of individual projects in simple terms, but in reality there is much more
+
+19
+00:01:26,500 --> 00:01:28,450
+to microservices than that.
+
+20
+00:01:29,060 --> 00:01:37,130
+But as microservices are composed of individual APIs, we will be spending quite some time in building
+
+21
+00:01:37,130 --> 00:01:38,440
+small APIs.
+
+22
+00:01:38,450 --> 00:01:46,370
+And then we will focus on the key concept of how individual API communicates with each other and how
+
+23
+00:01:46,370 --> 00:01:49,910
+the microservices architecture comes together.
+
+24
+00:01:50,550 --> 00:01:58,440
+We will be building seven small API's in this course, including one API that will be responsible for
+
+25
+00:01:58,440 --> 00:02:03,420
+authentication and we will do that using Dotnet identity.
+
+26
+00:02:04,510 --> 00:02:11,140
+Once we build the APIs, then we will see how API communicates with each other.
+
+27
+00:02:11,910 --> 00:02:19,320
+One of the most frustrating thing when you are learning something is when the course is outdated, because
+
+28
+00:02:19,320 --> 00:02:23,100
+of which I will always try to keep the content up to date.
+
+29
+00:02:23,130 --> 00:02:28,290
+That way you will not be struggling with what is different in the new version.
+
+30
+00:02:28,860 --> 00:02:36,150
+If you are excited about what microservices are and you want to learn by building a real world project
+
+31
+00:02:36,150 --> 00:02:40,230
+in microservices, this is the course you are looking for.
+
+32
+00:02:41,090 --> 00:02:45,470
+I hope you will join me in this exciting journey of microservices.
+
+33
+00:02:45,470 --> 00:02:50,480
+And let me show you what we will build in this course in the next video.
+

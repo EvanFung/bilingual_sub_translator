@@ -1,0 +1,164 @@
+1
+00:00:01,870 --> 00:00:05,080
+Are you looking to learn what microservices are?
+您是否想了解什么是微服务？
+
+2
+00:00:05,110 --> 00:00:11,200
+Or are you trying to get started and gain some real world hands on experience with.
+或者，您正在尝试入门并获得一些实际操作经验。
+
+3
+00:00:11,470 --> 00:00:13,060
+Net microservices.
+.Net微服务
+
+4
+00:00:13,570 --> 00:00:16,630
+If yes, then you are at the right course.
+如果是，那么您就上对了课。
+
+5
+00:00:16,990 --> 00:00:20,230
+My name is Brogan and welcome to the course.
+我叫布罗根，欢迎来到本课程。
+
+6
+00:00:20,560 --> 00:00:22,410
+Net Core Microservices.
+.Net核心微服务
+
+7
+00:00:22,420 --> 00:00:23,800
+The Complete Guide.
+完全指南
+
+8
+00:00:24,550 --> 00:00:28,600
+Microservices is one of the buzzword in programming.
+微服务是编程领域的热门词汇之一。
+
+9
+00:00:28,930 --> 00:00:36,700
+If you look for a new job, microservices is one of the key features that is coming up more and more
+如果你想找一份新工作，微服务是越来越多地出现的关键功能之一。
+
+10
+00:00:36,700 --> 00:00:37,480
+often.
+经常。
+
+11
+00:00:38,360 --> 00:00:45,440
+Every time a system is lagging or it is getting too big, someone will have a suggestion that maybe
+每当系统出现滞后或变得过于庞大时，就会有人提出建议，也许
+
+12
+00:00:45,440 --> 00:00:47,960
+we should look into microservices.
+我们应该研究一下微服务。
+
+13
+00:00:48,440 --> 00:00:55,250
+But it is critical to understand what exactly it is and how to implement it correctly.
+但关键是要了解它到底是什么，以及如何正确实施。
+
+14
+00:00:56,020 --> 00:00:59,260
+That is my motivation behind this course.
+这就是我开设这门课程的动机。
+
+15
+00:00:59,710 --> 00:01:07,180
+My goal is to introduce you to the microservices architecture while giving you a real world project
+我的目标是向你介绍微服务架构，同时为你提供一个真实世界的项目
+
+16
+00:01:07,180 --> 00:01:14,980
+to see how microservices communicate with each other and what are the problems that we encounter and
+看看微服务之间是如何通信的，我们会遇到哪些问题，以及
+
+17
+00:01:14,980 --> 00:01:16,300
+how to solve them.
+如何解决这些问题。
+
+18
+00:01:16,870 --> 00:01:26,500
+Microservices is made up of individual projects in simple terms, but in reality there is much more
+简单地说，微服务是由单个项目组成的，但实际上还有更多内容
+
+19
+00:01:26,500 --> 00:01:28,450
+to microservices than that.
+微服务
+
+20
+00:01:29,060 --> 00:01:37,130
+But as microservices are composed of individual APIs, we will be spending quite some time in building
+但是，由于微服务是由单个应用程序接口组成的，我们将花费大量时间来构建
+
+21
+00:01:37,130 --> 00:01:38,440
+small APIs.
+小型应用程序接口。
+
+22
+00:01:38,450 --> 00:01:46,370
+And then we will focus on the key concept of how individual API communicates with each other and how
+然后，我们将重点讨论各个应用程序接口如何相互通信，以及如何
+
+23
+00:01:46,370 --> 00:01:49,910
+the microservices architecture comes together.
+微服务架构
+
+24
+00:01:50,550 --> 00:01:58,440
+We will be building seven small API's in this course, including one API that will be responsible for
+在本课程中，我们将构建七个小型应用程序接口，其中一个应用程序接口将负责
+
+25
+00:01:58,440 --> 00:02:03,420
+authentication and we will do that using Dotnet identity.
+我们将使用 Dotnet 身份进行验证。
+
+26
+00:02:04,510 --> 00:02:11,140
+Once we build the APIs, then we will see how API communicates with each other.
+一旦我们构建了应用程序接口，我们就会看到应用程序接口是如何相互通信的。
+
+27
+00:02:11,910 --> 00:02:19,320
+One of the most frustrating thing when you are learning something is when the course is outdated, because
+在学习过程中，最令人沮丧的事情之一就是课程过时了，因为
+
+28
+00:02:19,320 --> 00:02:23,100
+of which I will always try to keep the content up to date.
+我将始终努力更新其中的内容。
+
+29
+00:02:23,130 --> 00:02:28,290
+That way you will not be struggling with what is different in the new version.
+这样你就不会纠结于新版本的不同之处。
+
+30
+00:02:28,860 --> 00:02:36,150
+If you are excited about what microservices are and you want to learn by building a real world project
+如果你对微服务感到兴奋，并希望通过构建一个真实世界的项目来学习
+
+31
+00:02:36,150 --> 00:02:40,230
+in microservices, this is the course you are looking for.
+这就是您要找的课程。
+
+32
+00:02:41,090 --> 00:02:45,470
+I hope you will join me in this exciting journey of microservices.
+希望您能和我一起踏上这段激动人心的微服务之旅。
+
+33
+00:02:45,470 --> 00:02:50,480
+And let me show you what we will build in this course in the next video.
+让我在下一个视频中向你展示我们将在本课程中构建的内容。
